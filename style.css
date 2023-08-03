@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.container{
+    width:320px;
+    height: 28vh;
+    margin: 30px;
+    background: rgb(240, 238, 238);
+    border-radius: 20px;
+}
+.profile h1{
+    font-family: Arial;
+    font-size: 20px;
+    padding-top: 38px;
+}
+.profile p{
+    margin-bottom:30px;
+    color:#b8b0b0;
+    font-family:arial;
+    font-size:15px;
+    padding-top:8px;
+}
+
+.image{
+    width: 60px;
+    border-radius: 50px;
+    cursor: pointer;
+    float: left;
+    margin: 33px;
+
+}
+
+button{
+    text-decoration:none;
+    background: black;
+    color: white;
+    font-weight: bold;
+    letter-spacing:1px;
+    cursor: pointer;
+    float:left;
+    padding: 10px 25px;
+    border-radius: 25px;
+    margin-left: 27px;
+
+}
+i{
+    color: black;
+    font-size: 20px;
+    padding: 15px 15px;
+}
+.talha {
+    margin-right:140px;
+}
